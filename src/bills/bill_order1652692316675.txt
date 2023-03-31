@@ -1,0 +1,4 @@
+Product: Smoked Caviar and Hummus on Pita Toasts  Rating: 5.0 Calories: 23 Proteins: 1 Fats: 2 Sodium: 49 PRICE: 79
+Product: Barbecued Shrimp  Rating: 3.75 Calories: 23 Proteins: 4 Fats: 0 Sodium: 205 PRICE: 71
+Product: Cilantro-Tomato Salsa  Rating: 3.75 Calories: 23 Proteins: 1 Fats: 0 Sodium: 7 PRICE: 32
+TOTAL PRICE = 182

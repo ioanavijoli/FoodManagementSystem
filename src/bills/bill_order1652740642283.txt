@@ -1,0 +1,4 @@
+Product: Poblano Cream Soup  Rating: 3.125 Calories: 54 Proteins: 1 Fats: 5 Sodium: 66 PRICE: 54
+Product: Squash and Sweet-Potato Soup with Chipotle Sauce  Rating: 4.375 Calories: 68 Proteins: 1 Fats: 1 Sodium: 37 PRICE: 91
+Product: Chilled Minted Zucchini Soup  Rating: 2.5 Calories: 70 Proteins: 5 Fats: 2 Sodium: 55 PRICE: 96
+TOTAL PRICE = 241

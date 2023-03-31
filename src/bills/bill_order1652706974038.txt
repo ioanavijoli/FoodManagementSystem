@@ -1,0 +1,3 @@
+Product: Ethiopian Spice Tea  Rating: 5.0 Calories: 23 Proteins: 1 Fats: 0 Sodium: 13 PRICE: 49
+Product: Barbecued Shrimp  Rating: 3.75 Calories: 23 Proteins: 4 Fats: 0 Sodium: 205 PRICE: 71
+TOTAL PRICE = 120

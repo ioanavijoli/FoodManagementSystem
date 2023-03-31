@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="482.0" prefWidth="680.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.OrderController">
+   <children>
+      <TextArea fx:id="textArea" editable="false" layoutX="35.0" layoutY="160.0" prefHeight="220.0" prefWidth="610.0" />
+      <Label layoutX="40.0" layoutY="30.0" text="My order" textFill="#b92121">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Label>
+      <Button layoutX="547.0" layoutY="406.0" mnemonicParsing="false" onAction="#onSaveOrderClick" text="Place order" textFill="#359125">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <Label layoutX="40.0" layoutY="102.0" text="Total price:">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <TextField fx:id="totalPrice" editable="false" layoutX="145.0" layoutY="102.0" prefHeight="26.0" prefWidth="70.0" />
+      <Button layoutX="35.0" layoutY="406.0" mnemonicParsing="false" onAction="#onChooseOtherProductsClick" text="Choose other products">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+      <ImageView fitHeight="119.0" fitWidth="147.0" layoutX="473.0" layoutY="10.0">
+         <image>
+            <Image url="@clipart1539361.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="377.0" layoutY="406.0" mnemonicParsing="false" onAction="#onDeleteProductsClick" text="Delete products" textFill="#ae1919">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

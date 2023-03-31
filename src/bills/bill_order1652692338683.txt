@@ -1,0 +1,9 @@
+Product: Fresh Corn Tortillas  Rating: 3.75 Calories: 23 Proteins: 1 Fats: 2 Sodium: 61 PRICE: 79
+Product: Quick & Spicy Asian Pickles  Rating: 5.0 Calories: 23 Proteins: 1 Fats: 0 Sodium: 128 PRICE: 48
+Product: Spicy Pickled Shallots  Rating: 0.0 Calories: 23 Proteins: 1 Fats: 0 Sodium: 162 PRICE: 78
+Product: Ethiopian Spice Tea  Rating: 5.0 Calories: 23 Proteins: 1 Fats: 0 Sodium: 13 PRICE: 49
+Product: Smoked Caviar and Hummus on Pita Toasts  Rating: 5.0 Calories: 23 Proteins: 1 Fats: 2 Sodium: 49 PRICE: 79
+Product: Barbecued Shrimp  Rating: 3.75 Calories: 23 Proteins: 4 Fats: 0 Sodium: 205 PRICE: 71
+Product: Cilantro-Tomato Salsa  Rating: 3.75 Calories: 23 Proteins: 1 Fats: 0 Sodium: 7 PRICE: 32
+Product: Cauliflower-Leek Purée  Rating: 3.125 Calories: 23 Proteins: 2 Fats: 0 Sodium: 149 PRICE: 13
+TOTAL PRICE = 449

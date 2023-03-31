@@ -1,0 +1,3 @@
+Product: Cauliflower-Leek Purée  Rating: 3.125 Calories: 23 Proteins: 2 Fats: 0 Sodium: 149 PRICE: 13
+Product: Red and Green Tomato Salsa  Rating: 3.125 Calories: 23 Proteins: 1 Fats: 0 Sodium: 552 PRICE: 38
+TOTAL PRICE = 51
